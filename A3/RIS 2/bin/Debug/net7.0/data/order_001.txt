@@ -1,0 +1,6 @@
+Order ID: 001
+Order Date: 5/22/2024 3:09:44 PM
+Items:
+- Dumpling - $12
+- Carbonara - $18
+Total: $30

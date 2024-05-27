@@ -1,0 +1,45 @@
+/Users/khoale/Projects/RIS/RIS/obj/Debug/net7.0/RIS.csproj.AssemblyReference.cache
+/Users/khoale/Projects/RIS/RIS/obj/Debug/net7.0/RIS.GeneratedMSBuildEditorConfig.editorconfig
+/Users/khoale/Projects/RIS/RIS/obj/Debug/net7.0/RIS.AssemblyInfoInputs.cache
+/Users/khoale/Projects/RIS/RIS/obj/Debug/net7.0/RIS.AssemblyInfo.cs
+/Users/khoale/Projects/RIS/RIS/obj/Debug/net7.0/RIS.csproj.CoreCompileInputs.cache
+/Users/khoale/Projects/RIS/RIS/bin/Debug/net7.0/RIS
+/Users/khoale/Projects/RIS/RIS/bin/Debug/net7.0/RIS.deps.json
+/Users/khoale/Projects/RIS/RIS/bin/Debug/net7.0/RIS.runtimeconfig.json
+/Users/khoale/Projects/RIS/RIS/bin/Debug/net7.0/RIS.dll
+/Users/khoale/Projects/RIS/RIS/bin/Debug/net7.0/RIS.pdb
+/Users/khoale/Projects/RIS/RIS/obj/Debug/net7.0/RIS.dll
+/Users/khoale/Projects/RIS/RIS/obj/Debug/net7.0/refint/RIS.dll
+/Users/khoale/Projects/RIS/RIS/obj/Debug/net7.0/RIS.pdb
+/Users/khoale/Projects/RIS/RIS/obj/Debug/net7.0/RIS.genruntimeconfig.cache
+/Users/khoale/Projects/RIS/RIS/obj/Debug/net7.0/ref/RIS.dll
+/Users/khoale/Downloads/SWE30003/A3/RIS/bin/Debug/net7.0/RIS
+/Users/khoale/Downloads/SWE30003/A3/RIS/bin/Debug/net7.0/RIS.deps.json
+/Users/khoale/Downloads/SWE30003/A3/RIS/bin/Debug/net7.0/RIS.runtimeconfig.json
+/Users/khoale/Downloads/SWE30003/A3/RIS/bin/Debug/net7.0/RIS.dll
+/Users/khoale/Downloads/SWE30003/A3/RIS/bin/Debug/net7.0/RIS.pdb
+/Users/khoale/Downloads/SWE30003/A3/RIS/obj/Debug/net7.0/RIS.csproj.AssemblyReference.cache
+/Users/khoale/Downloads/SWE30003/A3/RIS/obj/Debug/net7.0/RIS.GeneratedMSBuildEditorConfig.editorconfig
+/Users/khoale/Downloads/SWE30003/A3/RIS/obj/Debug/net7.0/RIS.AssemblyInfoInputs.cache
+/Users/khoale/Downloads/SWE30003/A3/RIS/obj/Debug/net7.0/RIS.AssemblyInfo.cs
+/Users/khoale/Downloads/SWE30003/A3/RIS/obj/Debug/net7.0/RIS.csproj.CoreCompileInputs.cache
+/Users/khoale/Downloads/SWE30003/A3/RIS/obj/Debug/net7.0/RIS.dll
+/Users/khoale/Downloads/SWE30003/A3/RIS/obj/Debug/net7.0/refint/RIS.dll
+/Users/khoale/Downloads/SWE30003/A3/RIS/obj/Debug/net7.0/RIS.pdb
+/Users/khoale/Downloads/SWE30003/A3/RIS/obj/Debug/net7.0/RIS.genruntimeconfig.cache
+/Users/khoale/Downloads/SWE30003/A3/RIS/obj/Debug/net7.0/ref/RIS.dll
+/Users/khoale/Downloads/SWE30003/A3/RIS 2/obj/Debug/net7.0/RIS.csproj.AssemblyReference.cache
+/Users/khoale/Downloads/SWE30003/A3/RIS 2/obj/Debug/net7.0/RIS.GeneratedMSBuildEditorConfig.editorconfig
+/Users/khoale/Downloads/SWE30003/A3/RIS 2/obj/Debug/net7.0/RIS.AssemblyInfoInputs.cache
+/Users/khoale/Downloads/SWE30003/A3/RIS 2/obj/Debug/net7.0/RIS.AssemblyInfo.cs
+/Users/khoale/Downloads/SWE30003/A3/RIS 2/obj/Debug/net7.0/RIS.csproj.CoreCompileInputs.cache
+/Users/khoale/Downloads/SWE30003/A3/RIS 2/obj/Debug/net7.0/RIS.dll
+/Users/khoale/Downloads/SWE30003/A3/RIS 2/obj/Debug/net7.0/refint/RIS.dll
+/Users/khoale/Downloads/SWE30003/A3/RIS 2/obj/Debug/net7.0/RIS.pdb
+/Users/khoale/Downloads/SWE30003/A3/RIS 2/bin/Debug/net7.0/RIS
+/Users/khoale/Downloads/SWE30003/A3/RIS 2/bin/Debug/net7.0/RIS.deps.json
+/Users/khoale/Downloads/SWE30003/A3/RIS 2/bin/Debug/net7.0/RIS.runtimeconfig.json
+/Users/khoale/Downloads/SWE30003/A3/RIS 2/bin/Debug/net7.0/RIS.dll
+/Users/khoale/Downloads/SWE30003/A3/RIS 2/bin/Debug/net7.0/RIS.pdb
+/Users/khoale/Downloads/SWE30003/A3/RIS 2/obj/Debug/net7.0/RIS.genruntimeconfig.cache
+/Users/khoale/Downloads/SWE30003/A3/RIS 2/obj/Debug/net7.0/ref/RIS.dll

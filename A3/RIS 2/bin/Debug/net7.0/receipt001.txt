@@ -1,0 +1,12 @@
+Relaxing Koala Restaurant
+
+Customer Receipt
+Order ID: #001
+Customer Name: Khoa
+Contact Number: 0450445373
+Payment Method: debit card
+Date: 5/22/2024 3:09:44 PM
+
+1. Dumpling -  $12.00
+2. Carbonara -  $18.00
+Total: $30.00

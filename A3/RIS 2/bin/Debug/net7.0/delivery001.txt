@@ -1,0 +1,8 @@
+Relaxing Koala Restaurant
+
+Delivery Invoice
+Order ID: #001
+Customer Name: Khoa
+Contact Number: 0450445373
+Date: 5/22/2024 3:09:44 PM
+
